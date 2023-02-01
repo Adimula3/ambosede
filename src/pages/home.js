@@ -4,6 +4,9 @@ import Image1 from '../assets/img/why-us-bg.jpg';
 import {Col, Row} from "react-bootstrap";
 import iphone from '../assets/img/iphone.png';
 import blog1 from '../assets/img/blog/blog-1.jpg'
+import blog2 from '../assets/img/blog/blog-2.jpg'
+import blog3 from '../assets/img/blog/blog-3.jpg'
+import blog4 from '../assets/img/blog/blog-4.jpg'
 
 function Home(props) {
 
@@ -156,7 +159,7 @@ function Home(props) {
                             </div>
                         </div>
                         <div className="card" style={{width: '18rem'}}>
-                            <img className="card-img-top" src={blog1} alt="Card image cap" />
+                            <img className="card-img-top" src={blog2} alt="Card image cap" />
                             <div className="card-body">
                                 <a className="user-info" href="">Tue, December 12</a><span> / Julia Parker</span>
                                 <h5 className="card-title">Eum ad dolor et. Autem aut fugiat debitis</h5>
@@ -165,7 +168,7 @@ function Home(props) {
                             </div>
                         </div>
                         <div className="card" style={{width: '18rem'}}>
-                            <img className="card-img-top" src={blog1} alt="Card image cap" />
+                            <img className="card-img-top" src={blog3} alt="Card image cap" />
                             <div className="card-body">
                                 <a className="user-info" href="">Tue, December 12</a><span> / Julia Parker</span>
                                 <h5 className="card-title">Eum ad dolor et. Autem aut fugiat debitis</h5>
@@ -174,7 +177,7 @@ function Home(props) {
                             </div>
                         </div>
                         <div className="card" style={{width: '18rem'}}>
-                            <img className="card-img-top" src={blog1} alt="Card image cap" />
+                            <img className="card-img-top" src={blog4} alt="Card image cap" />
                             <div className="card-body">
                                 <a className="user-info" href="">Tue, December 12</a><span> / Julia Parker</span>
                                 <h5 className="card-title">Eum ad dolor et. Autem aut fugiat debitis</h5>
