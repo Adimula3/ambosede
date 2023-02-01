@@ -2,7 +2,6 @@ import React from 'react';
 import '../styles/home.css';
 import Image1 from '../assets/img/why-us-bg.jpg';
 import {Col, Row} from "react-bootstrap";
-import { Parallax, ParallaxLayer } from '@react-spring/parallax';
 import iphone from '../assets/img/iphone.png';
 import blog1 from '../assets/img/blog/blog-1.jpg'
 
